@@ -1,0 +1,84 @@
+OMNIMARKETER PROPRIETARY LICENSE
+
+Copyright (c) 2025–2026 M/s TERALIDARIUM WORKS (an Udyam-registered sole
+proprietorship firm existing under the laws of India). All Rights Reserved.
+
+Commercial & Legal Inquiries: legal@lidarium.com
+Website: https://lidarium.com
+
+---
+
+The copyright holder ("Licensor", "We", "Us") is **M/s TERALIDARIUM WORKS**, an
+Udyam-registered sole proprietorship firm existing under the laws of India. The
+Udyam registration certificate, the name of the sole proprietor, and the
+registered office address are not published in this file. They are held by the
+Licensor and are disclosed on written request to `legal@lidarium.com` for the
+purpose of establishing standing, chain of title, or enforcement — including to
+a court, tribunal, or arbitral authority.
+
+This software and associated documentation files (the "Software") are proprietary and confidential. 
+No part of this Software may be reproduced, distributed, or transmitted in any form or by any means, 
+including photocopying, recording, or other electronic or mechanical methods, without the prior 
+written permission of the copyright holder.
+
+========================================================================
+ACKNOWLEDGMENTS & THIRD-PARTY LICENSES
+========================================================================
+
+The OmniMarketer application includes and modifies open-source components, which remain subject to their original licenses.
+
+---
+shadcn/ui
+Copyright (c) 2023 shadcn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+Fabric.js
+Copyright (c) 2008-2015 Printio (Juriy Zaytsev, Maxim Chernyak)
+Licensed under the MIT License.
+
+---
+React & Ecosystem (Meta Platforms, Inc.)
+Licensed under the MIT License.
+
+---
+Vite (Yuxi (Evan) You and Vite contributors)
+Licensed under the MIT License.
+
+------------------------------------------------------------------------
+
+Bundled derived code — Apache-2.0
+Copyright (c) 2025 Alimardon Davronov
+
+Portions of the design-editor surface under frontend/src/features/editor/
+(together with the API hooks in features/ai, features/images and
+features/projects) are modified copies of code from:
+
+    canva-clone — https://github.com/Davronov-Alimardon/canva-clone
+    Apache License, Version 2.0
+
+The complete Apache License 2.0 text is shipped with the application as
+APACHE-2.0.txt. The scope of the derivation, the list of modified files and the
+changes made are recorded in editor-LICENSE-NOTICE.md, also shipped with the
+application.
+
+This is NOT the MIT License and it is not covered by any other notice in this
+file. Where the Apache-2.0 and the OmniMarketer proprietary terms differ for
+those files, the Apache-2.0 terms govern them.
