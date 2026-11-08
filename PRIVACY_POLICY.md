@@ -1,14 +1,14 @@
-# Privacy Policy for OmniMarketer (Mace)
+# Privacy Policy for Mace
 
 **Version 1.2 — Last Updated:** October 2026
 
-OmniMarketer ("Mace", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and stored when you use our desktop application.
+Mace ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and stored when you use our desktop application.
 
 ## 1. Local-First Architecture
-OmniMarketer is built with a local-first, privacy-centric architecture. By default, the application runs entirely on your local machine. 
+Mace is built with a local-first, privacy-centric architecture. By default, the application runs entirely on your local machine. 
 
 ## 2. Information We Collect and Store Locally
-When you use OmniMarketer, certain data is stored locally on your device (`~/Library/Application Support/Mace` on macOS):
+When you use Mace, certain data is stored locally on your device (`~/Library/Application Support/Mace` on macOS):
 - **Authentication Tokens:** OAuth tokens for platforms like Google and Meta are stored locally and encrypted using an AES symmetric key.
 - **Application Logs & Crash Reports:** Logs of backend operations and crash traces are stored locally to help you troubleshoot.
 - **Application Metrics:** Basic usage metrics (e.g., app starts, campaigns deployed) are recorded in local JSON files.
@@ -25,7 +25,7 @@ Crash reporting is **off until you turn it on**. It is presented as its own
 consent request at first launch and can be changed at any time under
 Settings → Privacy, where declining it applies immediately.
 
-If — and only if — you accept, OmniMarketer sends diagnostics to Sentry
+If — and only if — you accept, Mace sends diagnostics to Sentry
 (functivate Inc., GDPR-compliant processor, EU data region). What is sent:
 the error message and stack trace, the app version, the release channel
 (packaged vs. development), and session-health signals such as app starts and
@@ -88,7 +88,7 @@ You retain full control over your data. You can delete all application data, log
 
 ## 6. Closed Source: What You Can and Cannot Verify
 
-OmniMarketer is **fully closed-source proprietary software**. No source code is
+Mace is **fully closed-source proprietary software**. No source code is
 distributed to anyone — not under the free tier, not under a commercial licence,
 and not on request. Section 3 of the End-User License Agreement states this
 explicitly.
@@ -131,7 +131,7 @@ The Data Fiduciary for the purposes of this policy and of the Digital Personal
 Data Protection Act, 2023 is **M/s TERALIDARIUM WORKS**, an Udyam-registered
 sole proprietorship firm existing under the laws of India — the same entity
 identified in the End-User License Agreement (Section "The developer"), operating
-the "OmniMarketer" and "Lidarium" projects at https://lidarium.com.
+the "Lidarium" projects at https://lidarium.com.
 
 The Udyam registration certificate, the name of the sole proprietor, and the
 registered office address are held privately and are available on written request

@@ -3,7 +3,7 @@
 **Version 1.1 — Last Updated:** October 2026
 
 This End-User License Agreement ("EULA") is a legal agreement between you and
-the developer of OmniMarketer ("Mace", the "Application"), governed by the laws
+the developer of Mace (the "Application"), governed by the laws
 of the Republic of India.
 
 Please read it carefully. By installing, copying, or otherwise using the
@@ -14,7 +14,7 @@ install or use the Application.
 
 The "developer" or "Licensor" means **M/s TERALIDARIUM WORKS**, an
 Udyam-registered sole proprietorship firm existing under the laws of India,
-operating the "OmniMarketer" and "Lidarium" projects at https://lidarium.com and
+operating the "Lidarium" projects at https://lidarium.com and
 contactable via `legal@lidarium.com`. The developer is referred to throughout
 this EULA as "the developer" or "the Licensor".
 
@@ -74,13 +74,13 @@ rights are limited to that agreement and are not expanded by this EULA.
 
 ## 4. Autonomous AI Liability
 
-OmniMarketer employs autonomous AI agents capable of browsing the web,
+Mace employs autonomous AI agents capable of browsing the web,
 generating content, and spending advertising budget on third-party platforms
 (e.g. Google Ads, Meta Ads). **You explicitly acknowledge and agree that:**
 
 - You are solely responsible for reviewing all campaigns and budgets before
   deployment.
-- The developer of OmniMarketer is **not** liable for any financial losses,
+- The developer of Mace is **not** liable for any financial losses,
   suspended ad accounts, hallucinated ad copy, unintended agent actions, or
   spend exceeding your authorised budget.
 - You must monitor the agent's actions carefully.
@@ -89,7 +89,7 @@ generating content, and spending advertising budget on third-party platforms
 
 The Application connects to third-party services (large language models, ad
 networks, scrapers). Your use of those services is governed by their respective
-terms of service. OmniMarketer is not responsible for their availability,
+terms of service. Mace is not responsible for their availability,
 accuracy, or policies. Your API keys are supplied by you and remain on your
 device.
 

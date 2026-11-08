@@ -1,4 +1,4 @@
-# Mace (OmniMarketer)
+# Mace
 
 **AI-powered advertising campaign management and visual creative studio for macOS.**
 

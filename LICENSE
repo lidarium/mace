@@ -1,4 +1,4 @@
-OMNIMARKETER PROPRIETARY LICENSE
+MACE PROPRIETARY LICENSE
 
 Copyright (c) 2025–2026 M/s TERALIDARIUM WORKS (an Udyam-registered sole
 proprietorship firm existing under the laws of India). All Rights Reserved.
@@ -25,7 +25,7 @@ written permission of the copyright holder.
 ACKNOWLEDGMENTS & THIRD-PARTY LICENSES
 ========================================================================
 
-The OmniMarketer application includes and modifies open-source components, which remain subject to their original licenses.
+The Mace application includes and modifies open-source components, which remain subject to their original licenses.
 
 ---
 shadcn/ui
@@ -80,5 +80,5 @@ changes made are recorded in editor-LICENSE-NOTICE.md, also shipped with the
 application.
 
 This is NOT the MIT License and it is not covered by any other notice in this
-file. Where the Apache-2.0 and the OmniMarketer proprietary terms differ for
+file. Where the Apache-2.0 and the Mace proprietary terms differ for
 those files, the Apache-2.0 terms govern them.

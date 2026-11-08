@@ -1,13 +1,13 @@
 # Third-Party Notices
 
-**OmniMarketer (Mace) — Proprietary Software**
+**Mace — Proprietary Software**
 Copyright (c) 2026 The individual author operating under Teralidarium Works. All rights reserved.
 
 This application is proprietary and confidential. It is distributed under the
-terms of the OmniMarketer End-User License Agreement (`EULA.md`) and the
+terms of the Mace End-User License Agreement (`EULA.md`) and the
 proprietary license in `LICENSE`.
 
-OmniMarketer links against the open-source packages listed below. Each package
+Mace links against the open-source packages listed below. Each package
 remains subject to its own license. **All modules authored from scratch for this
 application — the FastAPI backend, the Electron desktop shell, the React user
 interface, the browser automation logic, and the Cloudflare deployment worker —
@@ -288,7 +288,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE FONT SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
 
-### Obligations carried by OmniMarketer for Orbitron
+### Obligations carried by Mace for Orbitron
 
 | Clause | Obligation | How it is met |
 |---|---|---|
@@ -298,7 +298,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 | 5 | Font itself stays under OFL | Satisfied — unmodified redistribution |
 
 The font is **not** modified, subset, or renamed. No OFL obligations are
-transferable to OmniMarketer's own proprietary code: OFL clause 5 makes the
+transferable to Mace's own proprietary code: OFL clause 5 makes the
 font-licensing requirement apply only to the Font Software, not to documents or
 applications that use it.
 
@@ -832,7 +832,7 @@ defined by the Mozilla Public License, v. 2.0.
 ## Proprietary modules
 
 The individual author. **Operates under Teralidarium Works with contact email
-`legal@lidarium.com`** (OmniMarketer, `lidarium.com`). Created the following from
+`legal@lidarium.com`** (`lidarium.com`). Created the following from
 scratch. They are **not** open source and are **not** covered by any licence in
 this file:
 
@@ -1757,7 +1757,7 @@ what was extracted, stripped and added is in `editor-LICENSE-NOTICE.md`, which
 ships inside the application. The complete Apache License 2.0 text ships as
 `APACHE-2.0.txt`.
 
-All other code in this application was written from scratch by OmniMarketer and
+All other code in this application was written from scratch by Mace and
 is proprietary under `LICENSE` and `EULA.md`. It is **not** covered by the
 Apache License above.
 
